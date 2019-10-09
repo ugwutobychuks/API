@@ -283,7 +283,7 @@ INSERT INTO `countrylist` (`id`, `country`, `countrycode`, `currency`, `currency
 (247, 'Saint Martin (French part)', 'MF', 'Netherlands Antillean guilder', 'ANG'),
 (248, 'Saint Pierre and Miquelon', 'PM', 'Euro', 'EUR'),
 (249, 'Serbia', 'RS', 'Serbian dinar', 'RSD'),
-(250, 'US Armed Forces', 'USAF', 'US Dollar', 'USD');
+
 
 --
 -- Indexes for dumped tables
